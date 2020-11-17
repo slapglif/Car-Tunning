@@ -1,3 +1,8 @@
+Company: Running River Investment LLC
+Location: San Jose California
+Click [here](https://yectuning.herokuapp.com) to see the site.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
